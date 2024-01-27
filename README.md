@@ -1,3 +1,12 @@
+### Profile views counter
+
+ <!--Dont steal it wont work anymore --> 
+
+![Visitor Count](https://profile-counter.glitch.me/{Adiitya34}/count.svg)
+<a href="https://icons8.com/icon/40669/c++">
+
+
+
 <h1 align="center">Hi 👋, I'm Aditya Jaiswal</h1>
 <h3 align="center">I am currently pursuing my Master's in Computer Applications (MCA) Acropolis AITR, where I am actively expanding my knowledge and skills in the field of computer science. My primary expertise lies in coding, particularly in C and C++. I am dedicated to enhancing my problem-solving abilities by delving into Data Structures and Algorithms, often utilizing platforms like LeetCode to challenge myself. Additionally, I have gained practical experience in web development, specifically in the MERN stack, through various projects. This has provided me with valuable insights into the dynamic world of full-stack development. --> DSA with C ++ --> MERN Stack Projects , Currently working on it --> Already Enrolled in Many Cloud Related Courses Like GCP</h3>
 
